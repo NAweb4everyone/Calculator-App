@@ -1,0 +1,27 @@
+ List<Widget> ButtonList = [
+    button1(lable:"C",textcolor: AppColors.secondaryColor,),
+    button1(lable:"/",textcolor: AppColors.secondaryColor,),
+    button1(lable:"X",textcolor: AppColors.secondaryColor,),
+    button1(lable:"AC",textcolor: AppColors.secondaryColor,),
+    button1(lable:"C",textcolor: AppColors.secondaryColor,),
+    button1(lable:"/",textcolor: AppColors.secondaryColor,),
+    button1(lable:"X",textcolor: AppColors.secondaryColor,),
+    button1(lable:"AC",textcolor: AppColors.secondaryColor,),
+    button1(lable:"C",textcolor: AppColors.secondaryColor,),
+    button1(lable:"/",textcolor: AppColors.secondaryColor,),
+    button1(lable:"X",textcolor: AppColors.secondaryColor,),
+    button1(lable:"AC",textcolor: AppColors.secondaryColor,),
+    button1(lable:"C",textcolor: AppColors.secondaryColor,),
+    button1(lable:"/",textcolor: AppColors.secondaryColor,),
+    button1(lable:"X",textcolor: AppColors.secondaryColor,),
+    button1(lable:"AC",textcolor: AppColors.secondaryColor,),
+    button1(lable:"C",textcolor: AppColors.secondaryColor,),
+    button1(lable:"/",textcolor: AppColors.secondaryColor,),
+    button1(lable:"X",textcolor: AppColors.secondaryColor,),
+    button1(lable:"AC",textcolor: AppColors.secondaryColor,),
+
+
+
+
+
+  ];
